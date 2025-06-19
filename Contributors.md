@@ -2401,6 +2401,7 @@ random guy
 - [detail331](https://github.com/detail331)
 - [Swetha Kannan](https://github.com/swethakannan12)
 - [gpalacios26](https://github.com/gpalacios26/curso-git-fork)
+- [Arunachalam T](https://github.com/lightsta1ker)
 - [Fahad Shoaib](https://github.com/Fahad-S94)
 - [Rohan Raj P](https://github.com/rohandeadshot)
 - [damsoon](https://github.com/damhyeong)
